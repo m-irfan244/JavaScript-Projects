@@ -10,5 +10,7 @@ Project 3: KeyCodes
 
 Project 4: Random Images Feed
 
+Project 5: Testimonial box switch
+
 
 More projects will be added with time. 
