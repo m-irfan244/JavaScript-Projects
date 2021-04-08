@@ -17,7 +17,7 @@ body {
     padding: 10px;
 }
 
-.testimonial-container {
+.testimonials-container {
     background-color: #476ce4;
     color: #fff;
     border-radius: 15px;
@@ -64,7 +64,7 @@ body {
     margin-left: 10px;
 }
 
-.user .user-name {
+.user .username {
     margin: 0;
 }
 
