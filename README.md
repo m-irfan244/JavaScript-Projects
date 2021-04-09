@@ -12,5 +12,8 @@ Project 4: Random Images Feed
 
 Project 5: Testimonial box switch
 
+Project 6: Scroll Animation
+
+
 
 More projects will be added with time. 
