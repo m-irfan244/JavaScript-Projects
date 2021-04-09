@@ -14,6 +14,8 @@ Project 5: Testimonial box switch
 
 Project 6: Scroll Animation
 
+Project 7: Blurry Loading
+
 
 
 More projects will be added with time. 
