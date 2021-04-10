@@ -16,6 +16,8 @@ Project 6: Scroll Animation
 
 Project 7: Blurry Loading
 
+Project 8: Search Widget
+
 
 
 More projects will be added with time. 
