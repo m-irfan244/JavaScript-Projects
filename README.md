@@ -18,6 +18,8 @@ Project 7: Blurry Loading
 
 Project 8: Search Widget
 
+Project 9: Split Landing Page
+
 
 
 More projects will be added with time. 
